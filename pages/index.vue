@@ -1,27 +1,27 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+
       <h1 class="title">
-        nuxt-sample
+        tegehoge-camp
       </h1>
       <h2 class="subtitle">
-        My lovely Nuxt.js project
+        We are Developer in Miyazaki
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://tege.work/"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Tegehoge Official Web
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://tegehoge.connpass.com"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          tegehoge connpass
         </a>
       </div>
     </div>
@@ -54,8 +54,9 @@ export default {
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: green;
   letter-spacing: 1px;
+  padding-bottom: 35px;
 }
 
 .subtitle {
