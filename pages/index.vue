@@ -3,7 +3,7 @@
     <div>
 
       <h1 class="title">
-        tegehoge-camp Vol1
+        tegehoge-camp Vol2
       </h1>
       <h2 class="subtitle">
         We are Developer in Miyazaki
